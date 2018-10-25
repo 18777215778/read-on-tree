@@ -1,0 +1,6 @@
+{
+    "port": 8989,
+    "watch": true,
+    "snapshots": "./snapshots",
+    "routes": "./routes.json"
+}

@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/good-books/good-books"
+  ],
+  
+  "window": {
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "树上阅",
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": false
+  }
+}

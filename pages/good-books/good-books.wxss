@@ -1,0 +1,26 @@
+.good-sent-area {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 288rpx;
+}
+
+.classify-menu-area {
+  padding: 30rpx 46rpx;
+}
+
+.classify-menu:last-child {
+  padding-bottom: 0;
+}
+
+.user-center-btn {
+  position: fixed;
+  bottom: 100rpx;
+  right: 0;
+  z-index: 2;
+}
+
+.book-item-area {
+  margin-bottom: 30rpx;
+  padding: 40rpx 46rpx;
+}

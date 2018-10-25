@@ -1,0 +1,8 @@
+<view class='book-item'>
+  <image class='book-item--cover' src='http://dummyimage.com/90x126/FF6600'></image>
+  <view class='book-item--warp'>
+    <text class='book-item--name'>绿野仙踪</text>
+    <text class='book-item--summary'>住在大草原上的小女孩多萝西，因为一次龙卷风突袭，被卷入一个陌生而神奇的国度，好心肠的女巫告诉她，只有奥兹国的大魔法师奥兹才能送她回家。\n途中，她遇到了想要一颗智慧脑袋的稻草人</text>
+    <text class='book-item--level'>四级</text>
+  </view>
+</view>

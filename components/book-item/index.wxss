@@ -1,0 +1,42 @@
+.book-item{
+  display: flex;
+  flex-flow: row nowrap;
+  margin-bottom: 30rpx;
+  padding: 40rpx 46rpx;
+  background-color: #fff;
+}
+
+.book-item--cover{
+  width: 160rpx;
+  height: 224rpx;
+  margin-right: 40rpx;
+  box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.3)
+}
+
+.book-item--warp {
+  flex: 1;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: space-between
+}
+
+.book-item--name {
+  font-size: 40rpx;
+  line-height: 1em;
+}
+
+.book-item--summary {
+  height: 3.6em;
+  font-size: 30rpx;
+  line-height: 1.2em;
+  color: #909090;
+  overflow: hidden
+}
+
+.book-item--level {
+  align-self: flex-start;
+  padding: 4rpx 20rpx;
+  border: 1px solid #292929;
+  font-size: 30rpx;
+  line-height: 1em;
+}

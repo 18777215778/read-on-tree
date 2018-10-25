@@ -1,0 +1,6 @@
+<view class='user-center-btn'>
+<image 
+  class='user-center-btn--head-sculpture'
+  src='images/head-sculpture.svg'
+></image>
+</view>

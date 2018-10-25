@@ -1,0 +1,19 @@
+<view class='good-sent-area block'>
+  <s-good-sent />
+</view>
+
+<view class='classify-menu-area block'>
+  <block
+    wx:for='{{ menu }}'
+    wx:key='{{ index }}'
+  >
+    <s-classify-menu
+      title='{{ index }}'
+      menu='{{ item }}'
+    />
+  </block>
+</view>
+
+<s-user-center-btn class='user-center-btn' />
+
+<s-book-item />

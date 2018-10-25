@@ -1,0 +1,5 @@
+<view class='show'>
+    <text class='sent'>Everything you see exists together in a delicate balance.</text>
+    <text class='auther'>-- The Lion King</text>
+  <image src='images/background.png'></image>
+</view>

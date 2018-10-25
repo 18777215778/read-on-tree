@@ -1,0 +1,8 @@
+  <view class='classify-menu'>
+    <text class='classify-menu--title'>{{ title }}</text>
+    <view class='classify-menu--list'>
+      <block wx:for='{{ menu }}' wx:key='{{ index }}'>
+        <text class='classify-menu--item'>{{item}}</text>
+      </block>
+    </view>
+  </view>

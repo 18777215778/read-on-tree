@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "树上阅",
+  "usingComponents": {
+    "s-good-sent": "/components/good-sent/index",
+    "s-classify-menu": "/components/classify-menu/index",
+    "s-book-item": "/components/book-item/index",
+    "s-user-center-btn": "/components/user-center-btn/index"
+  }
+}

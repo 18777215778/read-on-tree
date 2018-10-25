@@ -1,0 +1,15 @@
+.user-center-btn {
+  width: 120rpx;
+  height: 100rpx;
+  border-radius: 50rpx 0 0 50rpx;
+  background-color: #fff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+.user-center-btn--head-sculpture {
+  width: 70rpx;
+  height: 70rpx;
+  margin: 15rpx;
+  border-radius: 50rpx;
+  background-color: #f5f5f5;
+}
